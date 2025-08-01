@@ -1,0 +1,30 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1551 2562" width="1551" height="2562">
+	<title>MPHASIS</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-880.575,0,0,-1069.779,1440.591,511.329)">
+			<stop offset="0" stop-color="#8452a9"/>
+			<stop offset=".39" stop-color="#aa4094"/>
+			<stop offset=".69" stop-color="#d02c7f"/>
+			<stop offset="1" stop-color="#d02c7f"/>
+		</linearGradient>
+		<linearGradient id="g2" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(821.549,0,0,1011.124,109.506,2079.529)">
+			<stop offset="0" stop-color="#2ca7db"/>
+			<stop offset=".85" stop-color="#9ecf53"/>
+			<stop offset="1" stop-color="#9ecf53"/>
+		</linearGradient>
+		<linearGradient id="g3" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(980.038,-980.038,315.359,315.359,-61.244,1821.1)">
+			<stop offset="0" stop-color="#a4e5f1"/>
+			<stop offset="1" stop-color="#2ca7db"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: #ea2b61 } 
+		.s2 { fill: url(#g2) } 
+		.s3 { fill: url(#g3) } 
+	</style>
+	<path class="s0" d="m700.4 517.1l486.6 505.1 252.9-263.8-728.5-758.4c-146.7 139.7-150.7 373.4-11 517.1z"/>
+	<path class="s1" d="m764.5 1463.7l675.4-705.3c150.6 154.7 146.6 407.5-4 562.1l-407.6 403.5c-71.6 71.6-188.2 71.6-263.8 0-71.6-71.6-71.6-188.7 0-260.3z"/>
+	<path class="s2" d="m108.1 1863.7l671.4 697.8c147.2-139.7 150.7-373.4 11.5-520.6l-426.5-445z"/>
+	<path class="s3" d="m108.1 1863.7l720.5-750.9c68.1-71.6 68.1-188.2-4-256.3-37.6-37.5-82.6-56.6-131.7-56.6-45.6 0-94.6 19.1-132.2 56.6l-445.1 445c-150.6 151.2-154.7 404-7.5 562.2z"/>
+</svg>
